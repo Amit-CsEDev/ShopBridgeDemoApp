@@ -1,0 +1,9 @@
+C:\Users\amits\source\repos\DATA\bin\Debug\netcoreapp3.1\DATA.deps.json
+C:\Users\amits\source\repos\DATA\bin\Debug\netcoreapp3.1\DATA.dll
+C:\Users\amits\source\repos\DATA\bin\Debug\netcoreapp3.1\DATA.pdb
+C:\Users\amits\source\repos\DATA\obj\Debug\netcoreapp3.1\DATA.AssemblyInfoInputs.cache
+C:\Users\amits\source\repos\DATA\obj\Debug\netcoreapp3.1\DATA.AssemblyInfo.cs
+C:\Users\amits\source\repos\DATA\obj\Debug\netcoreapp3.1\DATA.csproj.CoreCompileInputs.cache
+C:\Users\amits\source\repos\DATA\obj\Debug\netcoreapp3.1\DATA.dll
+C:\Users\amits\source\repos\DATA\obj\Debug\netcoreapp3.1\DATA.pdb
+C:\Users\amits\source\repos\DATA\obj\Debug\netcoreapp3.1\DATA.csproj.AssemblyReference.cache
