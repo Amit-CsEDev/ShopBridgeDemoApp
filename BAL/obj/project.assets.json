@@ -5905,11 +5905,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\amits\\source\\repos\\BAL\\BAL.csproj",
+      "projectUniqueName": "C:\\Users\\amits\\source\\repos\\ThinkBridgeDemoApp\\ShopBridgeDemoApp\\BAL\\BAL.csproj",
       "projectName": "BAL",
-      "projectPath": "C:\\Users\\amits\\source\\repos\\BAL\\BAL.csproj",
+      "projectPath": "C:\\Users\\amits\\source\\repos\\ThinkBridgeDemoApp\\ShopBridgeDemoApp\\BAL\\BAL.csproj",
       "packagesPath": "C:\\Users\\amits\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\amits\\source\\repos\\BAL\\obj\\",
+      "outputPath": "C:\\Users\\amits\\source\\repos\\ThinkBridgeDemoApp\\ShopBridgeDemoApp\\BAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -5932,8 +5932,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\amits\\source\\repos\\DAL\\DAL.csproj": {
-              "projectPath": "C:\\Users\\amits\\source\\repos\\DAL\\DAL.csproj"
+            "C:\\Users\\amits\\source\\repos\\ThinkBridgeDemoApp\\ShopBridgeDemoApp\\DAL\\DAL.csproj": {
+              "projectPath": "C:\\Users\\amits\\source\\repos\\ThinkBridgeDemoApp\\ShopBridgeDemoApp\\DAL\\DAL.csproj"
             }
           }
         }

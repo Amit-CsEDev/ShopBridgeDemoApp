@@ -12,3 +12,17 @@ C:\Users\amits\source\repos\BAL\bin\Debug\netcoreapp3.1\DATA.pdb
 C:\Users\amits\source\repos\BAL\obj\Debug\netcoreapp3.1\BAL.csproj.CopyComplete
 C:\Users\amits\source\repos\BAL\obj\Debug\netcoreapp3.1\BAL.dll
 C:\Users\amits\source\repos\BAL\obj\Debug\netcoreapp3.1\BAL.pdb
+C:\Users\amits\source\repos\ThinkBridgeDemoApp\ShopBridgeDemoApp\BAL\bin\Debug\netcoreapp3.1\BAL.deps.json
+C:\Users\amits\source\repos\ThinkBridgeDemoApp\ShopBridgeDemoApp\BAL\bin\Debug\netcoreapp3.1\BAL.dll
+C:\Users\amits\source\repos\ThinkBridgeDemoApp\ShopBridgeDemoApp\BAL\bin\Debug\netcoreapp3.1\BAL.pdb
+C:\Users\amits\source\repos\ThinkBridgeDemoApp\ShopBridgeDemoApp\BAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\amits\source\repos\ThinkBridgeDemoApp\ShopBridgeDemoApp\BAL\bin\Debug\netcoreapp3.1\DATA.dll
+C:\Users\amits\source\repos\ThinkBridgeDemoApp\ShopBridgeDemoApp\BAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\amits\source\repos\ThinkBridgeDemoApp\ShopBridgeDemoApp\BAL\bin\Debug\netcoreapp3.1\DATA.pdb
+C:\Users\amits\source\repos\ThinkBridgeDemoApp\ShopBridgeDemoApp\BAL\obj\Debug\netcoreapp3.1\BAL.csproj.AssemblyReference.cache
+C:\Users\amits\source\repos\ThinkBridgeDemoApp\ShopBridgeDemoApp\BAL\obj\Debug\netcoreapp3.1\BAL.AssemblyInfoInputs.cache
+C:\Users\amits\source\repos\ThinkBridgeDemoApp\ShopBridgeDemoApp\BAL\obj\Debug\netcoreapp3.1\BAL.AssemblyInfo.cs
+C:\Users\amits\source\repos\ThinkBridgeDemoApp\ShopBridgeDemoApp\BAL\obj\Debug\netcoreapp3.1\BAL.csproj.CoreCompileInputs.cache
+C:\Users\amits\source\repos\ThinkBridgeDemoApp\ShopBridgeDemoApp\BAL\obj\Debug\netcoreapp3.1\BAL.csproj.CopyComplete
+C:\Users\amits\source\repos\ThinkBridgeDemoApp\ShopBridgeDemoApp\BAL\obj\Debug\netcoreapp3.1\BAL.dll
+C:\Users\amits\source\repos\ThinkBridgeDemoApp\ShopBridgeDemoApp\BAL\obj\Debug\netcoreapp3.1\BAL.pdb

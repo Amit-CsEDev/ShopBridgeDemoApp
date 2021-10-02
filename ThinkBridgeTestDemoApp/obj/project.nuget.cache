@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2GL4vZcOG/oU79t6knpUfiDyC+H6/r3NUrcfI1BPbLuGg4ROtCU12CEF0Q/GCPOafY/JXtlWGJXTLmcE2XcFIw==",
+  "dgSpecHash": "AsZFEp1ko44F1/7sjg3pTkgw9h5jIAXGAhQZCxt8bKkzwnlbCDXhNmPSh0esQ3p/1kPSm1ojQUCizWt2pBnLDg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\amits\\source\\repos\\ThinkBridgeTestDemoApp\\ThinkBridgeTestDemoApp.csproj",
+  "projectFilePath": "C:\\Users\\amits\\source\\repos\\ThinkBridgeDemoApp\\ShopBridgeDemoApp\\ThinkBridgeTestDemoApp\\ThinkBridgeTestDemoApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\amits\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\amits\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.10\\microsoft.aspnetcore.cryptography.internal.5.0.10.nupkg.sha512",
